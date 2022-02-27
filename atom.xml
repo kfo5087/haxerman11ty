@@ -3,7 +3,7 @@
   <title>haxerman11ty</title>
   <link href="https://kfo5087.github.io/haxerman11ty/atom.xml" rel="self" />
   <subtitle>project documentation</subtitle>
-  <updated>2022-02-27T23:30:08.992-00:00</updated>
+  <updated>2022-02-27T23:42:22.107-00:00</updated>
   <author>
       <name>kfo5087</name>
   </author>
@@ -11,26 +11,57 @@
   <entry>
     <title>About</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/about/</id>
-    <updated>2022-02-27T23:30:08.988-00:00</updated>
-    <published>2022-02-27T23:30:08.988-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/about/"/>
     <content type="html">
-      &lt;p&gt;HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:
-&lt;ul&gt;
-  &lt;li&gt;User edits via HAX (future) or modifies files locally&lt;/li&gt;
-  &lt;li&gt;hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen&lt;/li&gt;
-  &lt;li&gt;this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/p&gt;
+      &lt;p&gt;This is Kayra, I&#39;m not a web developer but i&#39;m out here trying&lt;/p&gt;
+
+    </content>
+  </entry>
+  <entry>
+    <title>Blog post</title>
+    <id>https://kfo5087.github.io/haxerman11ty/content/blogpost/</id>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
+    <summary></summary>
+    <link href="https://kfo5087.github.io/haxerman11ty/content/blogpost/"/>
+    <content type="html">
+      &lt;p&gt;Before starting this class I had a minuscule amount of exposure to web development, JavaScript, and HTML. After this lab I can now confidently say that investing in a device that uses a Linux platform is the wave for anybody pursuing a career in web development.&lt;/p&gt;
+&lt;h2&gt;SOFTWARE REQUIRED&lt;/h2&gt;
+&lt;p&gt;Before starting anything, if you are on windows, I highly recommend installing the Windows Terminal found in the Microsoft store, it&#39;s a free application that will allow you to add a Linux distro and access its terminal freely. The reason to do this is because &amp;quot;ohmyzsh&amp;quot; doesn&#39;t like windows users and makes you jump through multiple loopholes to get it working correctly on your bill gates powered OS.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dev-to-uploads.s3.amazonaws.com/uploads/articles/hrge09gdx57fgwyjt07f.png&quot; alt=&quot;Image description&quot;&gt;&lt;/p&gt;
+&lt;p&gt;When setting up this terminal, the first step you must take is by enabling &amp;quot;Windows subsystems for Linux&amp;quot; found in &amp;quot;Windows Features&amp;quot; (This can be found in your computers search bar) After this install a Linux distro such as Ubuntu
+&lt;img src=&quot;https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k4gp0ujmhsuoo2slz7s2.png&quot; alt=&quot;Image description&quot;&gt;
+add it to your terminal (may require restarting both programs) and enjoy the benefits of having your Linux terminal run through windows such as&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The ability to now copy and paste without an external program&lt;/li&gt;
+&lt;li&gt;Ohmyzsh now works by copy and pasting the link to install from the website into your terminal&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;NODE.js&lt;/strong&gt;
+Node.js is an &amp;quot;asynchronous event JavaScript runtime&amp;quot; and its basic functionality is to allow users to build and develop scalable network applications.
+&lt;strong&gt;NPM&lt;/strong&gt;
+NPM is a package manager that comes installed with Node.js that enables a user to discover, install, and use node programs.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5tqb8868cjfl2itlzwds.PNG&quot; alt=&quot;Image description&quot;&gt; What it should look like when these programs are properly installed.&lt;/p&gt;
+&lt;h2&gt;The Lab&lt;/h2&gt;
+&lt;p&gt;Once all the required components are installed to your system, you can proceed with the lab&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Proceed to create and open a new folder using the &lt;code&gt;mkdir&lt;/code&gt; command and &lt;code&gt;cd&lt;/code&gt; command respectively&lt;/li&gt;
+&lt;li&gt;Run the command &lt;code&gt;npm init @open-wc&lt;/code&gt; and if all the previous steps were done correctly, the prompt for open web components will pop up.&lt;/li&gt;
+&lt;li&gt;Select all of the options using &amp;quot;a&amp;quot;, don&#39;t use typescript, and tag your web component as hello world. Install your dependencies with either Yarn or NPM and the you will be given a new pop up in browser.
+&lt;img src=&quot;https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ff6m9z64q3lfzqfckgl6.png&quot; alt=&quot;Image description&quot;&gt;&lt;/li&gt;
+&lt;li&gt;The page you will be taken to willbe a mianly blank page with hello world at the top and a button that lets you increment the number &lt;img src=&quot;https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uarml3j5ouqnqw29mlwt.png&quot; alt=&quot;Image description&quot;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Congratulations you have created your very own web component.&lt;/p&gt;
 
     </content>
   </entry>
   <entry>
     <title>Get involved!</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/contact/</id>
-    <updated>2022-02-27T23:30:08.988-00:00</updated>
-    <published>2022-02-27T23:30:08.988-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/contact/"/>
     <content type="html">
@@ -41,8 +72,8 @@
   <entry>
     <title>Community examples</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/examples/Community/</id>
-    <updated>2022-02-27T23:30:08.988-00:00</updated>
-    <published>2022-02-27T23:30:08.988-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/examples/Community/"/>
     <content type="html">
@@ -53,8 +84,8 @@
   <entry>
     <title>HAXTheWeb</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/examples/HAXTeam/</id>
-    <updated>2022-02-27T23:30:08.988-00:00</updated>
-    <published>2022-02-27T23:30:08.988-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/examples/HAXTeam/"/>
     <content type="html">
@@ -69,8 +100,8 @@
   <entry>
     <title>Examples</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/examples/</id>
-    <updated>2022-02-27T23:30:08.992-00:00</updated>
-    <published>2022-02-27T23:30:08.992-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/examples/"/>
     <content type="html">
@@ -81,8 +112,8 @@
   <entry>
     <title>Installation</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/install/</id>
-    <updated>2022-02-27T23:30:08.992-00:00</updated>
-    <published>2022-02-27T23:30:08.992-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/install/"/>
     <content type="html">
@@ -110,8 +141,8 @@
   <entry>
     <title>Roadmap</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/roadmap/</id>
-    <updated>2022-02-27T23:30:08.992-00:00</updated>
-    <published>2022-02-27T23:30:08.992-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/roadmap/"/>
     <content type="html">
@@ -136,8 +167,8 @@
   <entry>
     <title>Why this is better</title>
     <id>https://kfo5087.github.io/haxerman11ty/content/why/</id>
-    <updated>2022-02-27T23:30:08.992-00:00</updated>
-    <published>2022-02-27T23:30:08.992-00:00</published>
+    <updated>2022-02-27T23:42:22.107-00:00</updated>
+    <published>2022-02-27T23:42:22.107-00:00</published>
     <summary></summary>
     <link href="https://kfo5087.github.io/haxerman11ty/content/why/"/>
     <content type="html">

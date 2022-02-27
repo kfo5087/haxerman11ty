@@ -4,8 +4,16 @@
    "title":"About",
    "created": "",
    "location":"/haxerman11ty/content/about/",
-   "description":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version",
-   "text":"HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:  User edits via HAX (future) or modifies files locally  hax11ty script watches for changes and rebuilds files w/ 11ty, refreshing the screen  this is compiled to a valid HAXcms data package to be used either completely static with a CDN or locally in HAXcms PHP version"
+   "description":"This is Kayra, I'm not a web developer but i'm out here trying",
+   "text":"This is Kayra, I'm not a web developer but i'm out here trying"
+  },
+  {
+   "id":"Blog post",
+   "title":"Blog post",
+   "created": "",
+   "location":"/haxerman11ty/content/blogpost/",
+   "description":"Before starting this class I had a minuscule amount of exposure to web development, JavaScript, and HTML. After this lab I can now confidently say that investing in a device that uses a Linux platform is the wave for anybody pursuing a career in web development.SOFTWARE REQUIREDBefore starting anything, if you are on windows, I highly recommend installing the Windows Terminal found in the Microsoft store, it's a free application that will allow you to add a Linux distro and access its terminal freely. The reason to do this is because &quot;ohmyzsh&quot; doesn't like windows users and makes you jump through multiple loopholes to get it working correctly on your bill gates powered OS.When setting up this terminal, the first step you must take is by enabling &quot;Windows subsystems for Linux&quot; found in &quot;Windows Features&quot; (This can be found in your computers search bar) After this install a Linux distro such as Ubuntuadd it to your terminal (may require restarting both progr",
+   "text":"Before starting this class I had a minuscule amount of exposure to web development, JavaScript, and HTML. After this lab I can now confidently say that investing in a device that uses a Linux platform is the wave for anybody pursuing a career in web development.SOFTWARE REQUIREDBefore starting anything, if you are on windows, I highly recommend installing the Windows Terminal found in the Microsoft store, it's a free application that will allow you to add a Linux distro and access its terminal freely. The reason to do this is because &quot;ohmyzsh&quot; doesn't like windows users and makes you jump through multiple loopholes to get it working correctly on your bill gates powered OS.When setting up this terminal, the first step you must take is by enabling &quot;Windows subsystems for Linux&quot; found in &quot;Windows Features&quot; (This can be found in your computers search bar) After this install a Linux distro such as Ubuntuadd it to your terminal (may require restarting both progr"
   },
   {
    "id":"Community examples",

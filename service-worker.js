@@ -39,39 +39,43 @@
 var precacheConfig = [
   [
     "/haxerman11ty/content/about/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/content/contact/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
+  ],
+  [
+    "/haxerman11ty/content/blogpost/",
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/content/install/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/content/roadmap/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/content/why/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/content/examples/Community/",
-    "MfQwlWWMG2b7UN4s"
-  ],
-  [
-    "/haxerman11ty/content/examples/HAXTeam/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/content/examples/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
+  ],
+  [
+    "/haxerman11ty/content/examples/HAXTeam/",
+    "L3FmPaBKxALt3CGD"
   ],
   [
     "/haxerman11ty/",
-    "MfQwlWWMG2b7UN4s"
+    "L3FmPaBKxALt3CGD"
   ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
